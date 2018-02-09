@@ -1816,5 +1816,17 @@ img.wp-post-image{
 
 /* Display subcategories  */
 
+.breadcrumbs{
+	margin-top:-2.5em;
+}
+
+@media (max-width: 767px) {
+
+	.breadcrumbs{
+		display:none;
+	}
+
+}
+
 
 

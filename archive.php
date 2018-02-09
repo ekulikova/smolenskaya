@@ -26,6 +26,8 @@ get_header(); ?>
 
 					   ?>
 
+
+
 	<!-- Display Subcategories-->
 
 <div class="subcat">
