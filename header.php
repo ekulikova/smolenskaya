@@ -67,5 +67,7 @@
 
 	</div><!--.site-header-->
 </header>
+
 <?php if (function_exists('dimox_breadcrumbs')) dimox_breadcrumbs(); ?>
+
 <div id="content" class="site-content">
